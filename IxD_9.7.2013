@@ -1,0 +1,54 @@
+Course objectives
+
+- Design + Front End + Back end 
+ - Key Qquestions
+  - How does the user feel about this?
+  - How does the user get there?
+
+Key Design Elements
+- Information Architecture
+- Aesthetic 
+- Typography
+- Color 
+- Content 
+- Deliverables => Front End 
+
+Front End Elements - Brower / Client Side 
+- HTML
+- CSS
+- Javascript
+- Images
+- Content
+- Static Code
+
+Back End Elements
+- Database 
+- Server Side / PHP, Ruby on Rails / Python, Node.js, ASP, JSP, Cold Fusion
+
+Server 
+- OS 
+- Web Server
+- DB Server - Postgres, MySQl, 
+- Language (Scripting Engine)
+
+Key Terms
+- Request / response
+
+Development Environment
+MAMP Stack & Word Press
+Contact Form 7, is a form template
+Word Press can query a PHP function through AJAX
+
+
+Word Press
+- Parent / Child Relationships between Pages
+- Pages do not have 
+- Word Press Routes to dynamic variables as a look up to a database asset
+
+Resize your Thumbnails - actually creates multiple images at upload
+
+Drupal is good for user generated content, a lot of it is themed in the database file.
+
+For every Wordpress theme you need two files:
+1. An Index.php file
+2. A CSS file
