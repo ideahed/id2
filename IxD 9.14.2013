@@ -1,1 +1,52 @@
 IxD 9.14.2013
+
+Design + Front End + Backend
+
+Design:
+ - Graphics
+ - Content
+ - Communication
+ - User
+ - Who is the User? 
+ - User Research => Ethnographic Research & Personas
+ - Information Architecture (Wireframes / Site Maps)
+
+ Front End
+  - Graphic Interface
+    - HTML
+    - CSS
+    - JS
+
+Backend
+ - Server
+ - Stored Data - Structured & Unstructured
+    * WordPress handles both Structured Data
+      and Unstructured Data by extending the database
+
+Caching
+ - Data that has been downloaded onto the browser
+
+ Reload CSS - tool for reloading the CSS dynamically without refreshing the page
+
+Text Editor Tools
+- Emmet - allows you to rapidly generate HTML code in text editor. Replaces Sublime Snippets
+
+- Coda - ability to access server directly
+
+Mobile Tools! 
+ Checkout Edge Inspect for mobile / web /tablet
+
+xCode iOS simulator, iphone on your screen 
+
+
+Wordpress accepts a function.php which makes your functions globally available throughout the application.
+
+Laze Loading, great for infinite scroll, example of multidirectional infinite scroll is google maps.
+
+Responsive 
+
+Media Query meta viewport tag that tells the browser not to get smaller
+
+in the CSS you have a media query that confirms if the browser is scaling.
+
+Mobile First means lets load all the content that mobile needs first b/c they have less bandwith, and then embellish it with desktop next.

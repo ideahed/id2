@@ -50,6 +50,23 @@ Resize your Thumbnails - actually creates multiple images at upload
 Drupal is good for user generated content, a lot of it is themed in the database file.
 
 For every Wordpress theme you need two files:
-1. An Index.php file
-2. A CSS file
+1. An 'index.php' file
+2. A 'style.css' file
 
+Caching
+ - Data that has been downloaded onto the browser
+
+ Reload CSS - tool for reloading the CSS dynamically without refreshing the page
+
+Text Editor Tools
+- Emmet - allows you to rapidly generate HTML code in text editor. Replaces Sublime Snippets
+
+- Coda - ability to access server directly
+
+Mobile Tools! 
+ Checkout Edge Inspect for mobile / web /tablet
+
+xCode iOS simulator, iphone on your screen 
+
+
+Wordpress accepts a function.php which makes your functions globally available throughout the application.
